@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net40;netstandard2.0</TargetFrameworks>
+    <Version>0.1.0</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Copyright />
+    <Authors>Jason Rowe</Authors>
+    <Company />
+    <Description>Simple library for hosting a .net core 2.0 or .net framework 4.0+ application as a Windows service or console application</Description>
+  </PropertyGroup>
+
+</Project>
